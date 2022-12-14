@@ -1,0 +1,62 @@
+h1{
+    color: #bb86fc;
+}
+#listo,#quitar,#regresar{
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}
+#caja{
+    margin-bottom: 12px;
+    border-radius: 10px;
+    display: inline-block;
+    background-color: #202020;
+    border: 10px solid #202020;  
+
+}
+#tarea{
+    
+    color: #03DAC5;
+    border: none;
+    background-color: #202020;
+}
+.bot{
+    border: solid;
+    border-color: #03DAC5 #0a9486 #0a9486 #03DAC5;
+    background-color: #03DAC5;
+    border-radius: 10px;
+}
+#listas{
+    text-align: center;
+}
+#caja-task{
+    border: 5px solid #202020;
+    border-radius: 20px;
+    display: inline;
+    background-color: #202020
+}
+body{
+    text-align: center;
+    background: #070707;
+}
+#pendientes,#hechas{
+    color: #03DAC5;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    border-radius: 20px;
+    display: inline;
+
+}
+#hechas{
+    color: #da0303;
+    text-decoration: line-through;
+}
+#colores{
+    color: #bb86fc;
+    color: #3700B3;
+    color: #03DAC5;
+    color: #121212;
+    color: #CF6679;
+
+}
